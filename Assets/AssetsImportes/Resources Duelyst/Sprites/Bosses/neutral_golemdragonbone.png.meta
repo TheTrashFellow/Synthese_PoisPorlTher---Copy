@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: c2e059d41370b5f4d9b9583f185858d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 959
+        width: 52
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19a8e642903924c81d40ff9feb665c
+      internalID: 866651275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 959
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcaca56872991f46991eec03ed96132
+      internalID: -1007943053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 960
+        width: 54
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7085d36f250f3f4ca9a63370f7fdcac
+      internalID: -1167246559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 959
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e079e984e111b488e546aae077a05a
+      internalID: 1472328954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 959
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c9251ec2c73d42b4440abd5a15adc
+      internalID: 1660280900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 879
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9560cf714ac97647b38aa42582dfda0
+      internalID: 879676613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 878
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e4601c5b7a0a44854a08698342a98
+      internalID: -607003636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 876
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235d587711e793468d8d45c4ceff577
+      internalID: -287692256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 878
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe741c746e06e8348a70a546dd393f8e
+      internalID: 95637192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 878
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908aaaf98c5a7648a4d6da8c560eb66
+      internalID: 2026968499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 801
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f399c6a136fc33844b077ca97beb1dde
+      internalID: -7517085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 797
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377422e6ebfc63442b07f78aeb79f9a7
+      internalID: -118183291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 797
+        width: 56
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e379e6c7cd7f443a955e5aeca7349b
+      internalID: -1677065283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 797
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbebd613662c240b1709b6d9d993e1
+      internalID: 781687075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 797
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c17cb23c564b448fbbf1cc2fbe34e
+      internalID: 2064616467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 719
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4e0b01e65baf46979ba331c7a6179
+      internalID: -1022419991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 716
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3b5106f362f84b9fad4e93006635c
+      internalID: 1639064958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 716
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf4719e5a2af91438cc174dd95547db
+      internalID: 40177067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 716
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133896db68577384bafb71865f4e6b19
+      internalID: -1327568399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 716
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a27c33526a31458532540e8695a3c
+      internalID: -864848590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 637
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72bf3ebb244d44599e001e9a02e66c
+      internalID: -87823322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 635
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a68b4fb8b26d4d94fc3a4ecd4fbe7
+      internalID: -1303026127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 635
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc30805af5a157439c7a0211f106878
+      internalID: 2064787168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 635
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f69fadeac24242a7bbab8024d6b16
+      internalID: -2143405574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 635
+        width: 56
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66794741baadf46908802288793e86
+      internalID: 780458642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 556
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1484fa86ff7b2e45adfd0576177b602
+      internalID: -739559240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 554
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d8286fd53a724c99307803c4b9bde
+      internalID: 2003705790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 554
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c360ed69aa4e4c9430b3cecfa2b49
+      internalID: -1898288801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 554
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881547bf76b2e745bb634242cd21300
+      internalID: -120380371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 554
+        width: 56
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6231f590ee00f246b3fb9a7e06ad7fa
+      internalID: -522573658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 475
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5752fedc636cd8f418ac813539ce563e
+      internalID: -25788863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 473
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818709641b23f24b8f658bfd0c3481f
+      internalID: 178535758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 473
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc56f6030d52042b30cbc227b2eca2
+      internalID: -672455172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 473
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18909035156a5cd40977fe8effd51c1f
+      internalID: -715984141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 473
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959141a883e7e094c9de33deb9fc820c
+      internalID: -1308063142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 394
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90959948d43384b802c47f7e9aa871
+      internalID: -723428213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 392
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad50286e82ddf0e4fbbd6842c1a11543
+      internalID: 833184117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 392
+        width: 58
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8e4b98b3ac8a418938b9d2c14979c
+      internalID: -985447114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 392
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9855bfcb0f6793b448bb938bb3cc3f04
+      internalID: 1165827002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 311
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3794832bdd3b4041873f2998b46792a
+      internalID: 259123433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 311
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdebcb180af3b143ae7ad9299e41b25
+      internalID: -1344946381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 311
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264d5599bbff464a9ce18d692c84bc5
+      internalID: -2066505652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 296
+        width: 62
+        height: 66
+      alignment: 9
+      pivot: {x: 0.75, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483672e874f90b4ba6b5e28aceb7c44
+      internalID: 1579513985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 230
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9718515f90ac49bd31f63951969c1
+      internalID: 1992325224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 230
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84016db9e320c42a5dcc6e87d8f569
+      internalID: -1804470786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 230
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12033a326cc7c41948f4f8063813b9
+      internalID: 1808033693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 215
+        width: 80
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2aad3782f8f4545b3ad16ef5e95499
+      internalID: -1346435225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 149
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7317cda18ea1a674f99e5913fd1ed924
+      internalID: -922201945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3cb18596b50e49ac2d7fa422cc3bd
+      internalID: 1056581989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 149
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a3502cfbb2864e91dd0e2d6737f60
+      internalID: 1924789497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 134
+        width: 80
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b053f8f19f2048b236acc27b3bb44
+      internalID: 76558487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6417d5b6c727749be5a49d8cfe956b
+      internalID: 1826130570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_52
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 53
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f949cbb3dae7e40838b2278b93ada0
+      internalID: -208596312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf63ea7eb48304e941248c9b87c34b
+      internalID: -1935932451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_golemdragonbone_54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 79
+        height: 67
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ecedfdc4cdce41812a6939c7b16a0
+      internalID: -2065060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      neutral_golemdragonbone_0: 866651275
+      neutral_golemdragonbone_1: -1007943053
+      neutral_golemdragonbone_10: -7517085
+      neutral_golemdragonbone_11: -118183291
+      neutral_golemdragonbone_12: -1677065283
+      neutral_golemdragonbone_13: 781687075
+      neutral_golemdragonbone_14: 2064616467
+      neutral_golemdragonbone_15: -1022419991
+      neutral_golemdragonbone_16: 1639064958
+      neutral_golemdragonbone_17: 40177067
+      neutral_golemdragonbone_18: -1327568399
+      neutral_golemdragonbone_19: -864848590
+      neutral_golemdragonbone_2: -1167246559
+      neutral_golemdragonbone_20: -87823322
+      neutral_golemdragonbone_21: -1303026127
+      neutral_golemdragonbone_22: 2064787168
+      neutral_golemdragonbone_23: -2143405574
+      neutral_golemdragonbone_24: 780458642
+      neutral_golemdragonbone_25: -739559240
+      neutral_golemdragonbone_26: 2003705790
+      neutral_golemdragonbone_27: -1898288801
+      neutral_golemdragonbone_28: -120380371
+      neutral_golemdragonbone_29: -522573658
+      neutral_golemdragonbone_3: 1472328954
+      neutral_golemdragonbone_30: -25788863
+      neutral_golemdragonbone_31: 178535758
+      neutral_golemdragonbone_32: -672455172
+      neutral_golemdragonbone_33: -715984141
+      neutral_golemdragonbone_34: -1308063142
+      neutral_golemdragonbone_35: -723428213
+      neutral_golemdragonbone_36: 833184117
+      neutral_golemdragonbone_37: -985447114
+      neutral_golemdragonbone_38: 1165827002
+      neutral_golemdragonbone_39: 259123433
+      neutral_golemdragonbone_4: 1660280900
+      neutral_golemdragonbone_40: -1344946381
+      neutral_golemdragonbone_41: -2066505652
+      neutral_golemdragonbone_42: 1579513985
+      neutral_golemdragonbone_43: 1992325224
+      neutral_golemdragonbone_44: -1804470786
+      neutral_golemdragonbone_45: 1808033693
+      neutral_golemdragonbone_46: -1346435225
+      neutral_golemdragonbone_47: -922201945
+      neutral_golemdragonbone_48: 1056581989
+      neutral_golemdragonbone_49: 1924789497
+      neutral_golemdragonbone_5: 879676613
+      neutral_golemdragonbone_50: 76558487
+      neutral_golemdragonbone_51: 1826130570
+      neutral_golemdragonbone_52: -208596312
+      neutral_golemdragonbone_53: -1935932451
+      neutral_golemdragonbone_54: -2065060329
+      neutral_golemdragonbone_6: -607003636
+      neutral_golemdragonbone_7: -287692256
+      neutral_golemdragonbone_8: 95637192
+      neutral_golemdragonbone_9: 2026968499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

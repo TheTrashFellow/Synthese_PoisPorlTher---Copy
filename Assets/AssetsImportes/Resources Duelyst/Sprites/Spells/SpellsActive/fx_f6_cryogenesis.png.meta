@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 67f233aede0dd3548969a6ec977654e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1604
+        width: 152
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337979ca6f3dc7f489d7c2cdda0b04c6
+      internalID: 1392763356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1600
+        width: 160
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400bfef7bb6c72e4ca5ead7abd492dab
+      internalID: 1497669880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1642
+        width: 80
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1154816fea126be4cb998551614ea327
+      internalID: -693659399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_54
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1608
+        width: 144
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45a97feb882f784da8b48c3c6dcdbf9
+      internalID: 1310269140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1599
+        width: 160
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0e57f9404ce944ba7e738b219d609
+      internalID: -2111869568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_56
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1599
+        width: 160
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab8ca1a25bd7c48ba4d22ec1263bf6
+      internalID: 201923490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1157
+        width: 144
+        height: 413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2b3046c08d4c469b0847f7247d363
+      internalID: 556899984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1153
+        width: 152
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa109714cd388864892a111b486e9a8a
+      internalID: 369535147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1157
+        width: 144
+        height: 372
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90efbaec07df50344a54974e45add284
+      internalID: -2035848587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_133
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1153
+        width: 152
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b9c1231deb73489b3fd1464ff14c3
+      internalID: 612315593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1187
+        width: 80
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5e9a58ceca8344baed1a75ff43295
+      internalID: 2061178287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_135
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1148
+        width: 160
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51ed6cb7ff31f4fa7581a37dec450d
+      internalID: -1689050123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_144
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 710
+        width: 144
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c23f04947a554f9602e3f65942dee
+      internalID: -104385721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_146
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 706
+        width: 144
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7b2ad96139a14299dc5883b9f3ad1
+      internalID: 735393015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_166
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 702
+        width: 160
+        height: 304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9924dd95a385fe48bf48b053f1596e3
+      internalID: 1041709824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_195
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 730
+        width: 88
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c2ef220c573f45a73e6df93f19810
+      internalID: 304948556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_198
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 698
+        width: 160
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed8dad1205a27409db7b8d81c876f7
+      internalID: -1793859328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_199
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 698
+        width: 160
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672dc5f328dab9429fffcb9a02facea
+      internalID: 1032101453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_207
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 152
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad806a53560a73e4e98e113b990cc9fd
+      internalID: -2097260024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_208
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 255
+        width: 144
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff0160e6e162341866e395208902dd
+      internalID: -1567822629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_209
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 251
+        width: 152
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463848cc33a9664a9e9393ab5d31940
+      internalID: 1268119118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 160
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56449c34f0d356b4b886aadd659f2b11
+      internalID: 1667485551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_231
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 246
+        width: 160
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79eb8526534544f9fdf4026f8c40ba
+      internalID: -162775830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_f6_cryogenesis_233
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 246
+        width: 160
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabe079df338d4478352a9e9c81d8ee
+      internalID: -1427977508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fx_f6_cryogenesis_0: -1696264546
+      fx_f6_cryogenesis_1: -174186437
+      fx_f6_cryogenesis_10: -2032954239
+      fx_f6_cryogenesis_100: -1974024922
+      fx_f6_cryogenesis_101: 792611587
+      fx_f6_cryogenesis_102: -743386757
+      fx_f6_cryogenesis_103: 895819369
+      fx_f6_cryogenesis_104: -966558414
+      fx_f6_cryogenesis_105: 1396974755
+      fx_f6_cryogenesis_106: -1069018357
+      fx_f6_cryogenesis_107: -2015411746
+      fx_f6_cryogenesis_108: -617731157
+      fx_f6_cryogenesis_109: 2045782415
+      fx_f6_cryogenesis_11: -1374289333
+      fx_f6_cryogenesis_110: 29391215
+      fx_f6_cryogenesis_111: 1196245629
+      fx_f6_cryogenesis_112: -1462194236
+      fx_f6_cryogenesis_113: -771062517
+      fx_f6_cryogenesis_114: 217398320
+      fx_f6_cryogenesis_115: 962446462
+      fx_f6_cryogenesis_116: 1462833176
+      fx_f6_cryogenesis_117: 1621649962
+      fx_f6_cryogenesis_118: 1427922877
+      fx_f6_cryogenesis_119: -217272739
+      fx_f6_cryogenesis_12: 1392763356
+      fx_f6_cryogenesis_120: 476226855
+      fx_f6_cryogenesis_121: -2119645545
+      fx_f6_cryogenesis_122: -1709868913
+      fx_f6_cryogenesis_123: -532137066
+      fx_f6_cryogenesis_124: 957616287
+      fx_f6_cryogenesis_125: -2138426116
+      fx_f6_cryogenesis_126: 1415078690
+      fx_f6_cryogenesis_127: -2137799864
+      fx_f6_cryogenesis_128: 297128772
+      fx_f6_cryogenesis_129: 1044634609
+      fx_f6_cryogenesis_13: -1272432896
+      fx_f6_cryogenesis_130: 2088310739
+      fx_f6_cryogenesis_131: -257660295
+      fx_f6_cryogenesis_132: 1344592911
+      fx_f6_cryogenesis_133: 612315593
+      fx_f6_cryogenesis_134: 2061178287
+      fx_f6_cryogenesis_135: -1689050123
+      fx_f6_cryogenesis_136: 263667681
+      fx_f6_cryogenesis_137: 1649962272
+      fx_f6_cryogenesis_138: -1278744560
+      fx_f6_cryogenesis_139: -1696244472
+      fx_f6_cryogenesis_14: -106950667
+      fx_f6_cryogenesis_140: -1317473680
+      fx_f6_cryogenesis_141: -2053029023
+      fx_f6_cryogenesis_142: -1743468371
+      fx_f6_cryogenesis_143: 507719523
+      fx_f6_cryogenesis_144: -104385721
+      fx_f6_cryogenesis_145: -1156351458
+      fx_f6_cryogenesis_146: 735393015
+      fx_f6_cryogenesis_147: 1723185189
+      fx_f6_cryogenesis_148: -1150734917
+      fx_f6_cryogenesis_149: 1982758024
+      fx_f6_cryogenesis_15: 1980888139
+      fx_f6_cryogenesis_150: -601681156
+      fx_f6_cryogenesis_151: 400735150
+      fx_f6_cryogenesis_152: 920734532
+      fx_f6_cryogenesis_153: 2112793442
+      fx_f6_cryogenesis_154: 1815101579
+      fx_f6_cryogenesis_155: -557246591
+      fx_f6_cryogenesis_156: -1518384061
+      fx_f6_cryogenesis_157: 1198952429
+      fx_f6_cryogenesis_158: 1135556916
+      fx_f6_cryogenesis_159: -1719720056
+      fx_f6_cryogenesis_16: -1905800442
+      fx_f6_cryogenesis_160: -1026611805
+      fx_f6_cryogenesis_161: 1225787369
+      fx_f6_cryogenesis_162: 1808985644
+      fx_f6_cryogenesis_163: -777825698
+      fx_f6_cryogenesis_164: -678699095
+      fx_f6_cryogenesis_165: -1447608393
+      fx_f6_cryogenesis_166: 1041709824
+      fx_f6_cryogenesis_167: -869274157
+      fx_f6_cryogenesis_168: -1508880542
+      fx_f6_cryogenesis_169: -459293823
+      fx_f6_cryogenesis_17: -948375001
+      fx_f6_cryogenesis_170: 1244793431
+      fx_f6_cryogenesis_171: 110287360
+      fx_f6_cryogenesis_172: -422751127
+      fx_f6_cryogenesis_173: -2136920369
+      fx_f6_cryogenesis_174: 422702459
+      fx_f6_cryogenesis_175: -1143648245
+      fx_f6_cryogenesis_176: -776713196
+      fx_f6_cryogenesis_177: -1122044146
+      fx_f6_cryogenesis_178: 249954211
+      fx_f6_cryogenesis_179: 1722074247
+      fx_f6_cryogenesis_18: 493222089
+      fx_f6_cryogenesis_180: -538595128
+      fx_f6_cryogenesis_181: 162337337
+      fx_f6_cryogenesis_182: -1390894093
+      fx_f6_cryogenesis_183: -1362981928
+      fx_f6_cryogenesis_184: 598111557
+      fx_f6_cryogenesis_185: -1679547993
+      fx_f6_cryogenesis_186: -744542923
+      fx_f6_cryogenesis_187: 1746342327
+      fx_f6_cryogenesis_188: -1012893534
+      fx_f6_cryogenesis_189: 1532445643
+      fx_f6_cryogenesis_19: -884463847
+      fx_f6_cryogenesis_190: -815215151
+      fx_f6_cryogenesis_191: -166326476
+      fx_f6_cryogenesis_192: -1569194927
+      fx_f6_cryogenesis_193: 2057185927
+      fx_f6_cryogenesis_194: 1765681892
+      fx_f6_cryogenesis_195: 304948556
+      fx_f6_cryogenesis_196: -19930701
+      fx_f6_cryogenesis_197: -1002718806
+      fx_f6_cryogenesis_198: -1793859328
+      fx_f6_cryogenesis_199: 1032101453
+      fx_f6_cryogenesis_2: 1045536871
+      fx_f6_cryogenesis_20: 99366091
+      fx_f6_cryogenesis_200: 218390344
+      fx_f6_cryogenesis_201: -1022150131
+      fx_f6_cryogenesis_202: 1714206858
+      fx_f6_cryogenesis_203: 134855912
+      fx_f6_cryogenesis_204: -1660339914
+      fx_f6_cryogenesis_205: -1196116365
+      fx_f6_cryogenesis_206: 691081759
+      fx_f6_cryogenesis_207: -2097260024
+      fx_f6_cryogenesis_208: -1567822629
+      fx_f6_cryogenesis_209: 1268119118
+      fx_f6_cryogenesis_21: 831315671
+      fx_f6_cryogenesis_210: 2077398818
+      fx_f6_cryogenesis_211: 1787237491
+      fx_f6_cryogenesis_212: -470513545
+      fx_f6_cryogenesis_213: -1044124422
+      fx_f6_cryogenesis_214: -816015799
+      fx_f6_cryogenesis_215: 245531319
+      fx_f6_cryogenesis_216: 1948197369
+      fx_f6_cryogenesis_217: 1649316706
+      fx_f6_cryogenesis_218: -1255011009
+      fx_f6_cryogenesis_219: 26920114
+      fx_f6_cryogenesis_22: 1461990780
+      fx_f6_cryogenesis_220: -1751614239
+      fx_f6_cryogenesis_221: -232856650
+      fx_f6_cryogenesis_222: -1944879469
+      fx_f6_cryogenesis_223: -830455460
+      fx_f6_cryogenesis_224: 1243125236
+      fx_f6_cryogenesis_225: 29379817
+      fx_f6_cryogenesis_226: -1991066028
+      fx_f6_cryogenesis_227: 451796189
+      fx_f6_cryogenesis_228: 2069030773
+      fx_f6_cryogenesis_229: 155192060
+      fx_f6_cryogenesis_23: 715617140
+      fx_f6_cryogenesis_230: 1667485551
+      fx_f6_cryogenesis_231: -162775830
+      fx_f6_cryogenesis_232: -1014305387
+      fx_f6_cryogenesis_233: -1427977508
+      fx_f6_cryogenesis_234: 1235482230
+      fx_f6_cryogenesis_24: -377570113
+      fx_f6_cryogenesis_25: -1096055743
+      fx_f6_cryogenesis_26: 2091735657
+      fx_f6_cryogenesis_27: 1085435215
+      fx_f6_cryogenesis_28: -849071916
+      fx_f6_cryogenesis_29: -1741735889
+      fx_f6_cryogenesis_3: 446894897
+      fx_f6_cryogenesis_30: -1057842507
+      fx_f6_cryogenesis_31: -2011345633
+      fx_f6_cryogenesis_32: 1907339340
+      fx_f6_cryogenesis_33: 467303997
+      fx_f6_cryogenesis_34: -794185925
+      fx_f6_cryogenesis_35: 985903633
+      fx_f6_cryogenesis_36: 683664569
+      fx_f6_cryogenesis_37: -2045642692
+      fx_f6_cryogenesis_38: 2133603092
+      fx_f6_cryogenesis_39: 1237334714
+      fx_f6_cryogenesis_4: -801530215
+      fx_f6_cryogenesis_40: 317712667
+      fx_f6_cryogenesis_41: 1497669880
+      fx_f6_cryogenesis_42: 1454529761
+      fx_f6_cryogenesis_43: 1594491652
+      fx_f6_cryogenesis_44: 1885836644
+      fx_f6_cryogenesis_45: -542930477
+      fx_f6_cryogenesis_46: -361014129
+      fx_f6_cryogenesis_47: 1748691309
+      fx_f6_cryogenesis_48: -958542718
+      fx_f6_cryogenesis_49: 869823555
+      fx_f6_cryogenesis_5: -1373586102
+      fx_f6_cryogenesis_50: -693659399
+      fx_f6_cryogenesis_51: 1509241528
+      fx_f6_cryogenesis_52: -968697710
+      fx_f6_cryogenesis_53: 1720104642
+      fx_f6_cryogenesis_54: 1310269140
+      fx_f6_cryogenesis_55: -2111869568
+      fx_f6_cryogenesis_56: 201923490
+      fx_f6_cryogenesis_57: -1335863088
+      fx_f6_cryogenesis_58: 302490807
+      fx_f6_cryogenesis_59: -34979394
+      fx_f6_cryogenesis_6: 1670897941
+      fx_f6_cryogenesis_60: 1538614536
+      fx_f6_cryogenesis_61: 556899984
+      fx_f6_cryogenesis_62: -2065148833
+      fx_f6_cryogenesis_63: 1660223611
+      fx_f6_cryogenesis_64: 1513355812
+      fx_f6_cryogenesis_65: 369535147
+      fx_f6_cryogenesis_66: -2035848587
+      fx_f6_cryogenesis_67: 1015639423
+      fx_f6_cryogenesis_68: -486447492
+      fx_f6_cryogenesis_69: -1627227356
+      fx_f6_cryogenesis_7: -1828347245
+      fx_f6_cryogenesis_70: 356169860
+      fx_f6_cryogenesis_71: -908742847
+      fx_f6_cryogenesis_72: -1319148904
+      fx_f6_cryogenesis_73: 1388659694
+      fx_f6_cryogenesis_74: -161042064
+      fx_f6_cryogenesis_75: 1872909075
+      fx_f6_cryogenesis_76: 1864415361
+      fx_f6_cryogenesis_77: 2065891572
+      fx_f6_cryogenesis_78: 1166847481
+      fx_f6_cryogenesis_79: -1457520612
+      fx_f6_cryogenesis_8: 1716776465
+      fx_f6_cryogenesis_80: 1852863886
+      fx_f6_cryogenesis_81: -1008671619
+      fx_f6_cryogenesis_82: 421074731
+      fx_f6_cryogenesis_83: -1377975660
+      fx_f6_cryogenesis_84: 1006795224
+      fx_f6_cryogenesis_85: 1048367433
+      fx_f6_cryogenesis_86: -1131679404
+      fx_f6_cryogenesis_87: -63768888
+      fx_f6_cryogenesis_88: -1033690458
+      fx_f6_cryogenesis_89: -1949522667
+      fx_f6_cryogenesis_9: -355135955
+      fx_f6_cryogenesis_90: 691279999
+      fx_f6_cryogenesis_91: -2005838680
+      fx_f6_cryogenesis_92: 1164992805
+      fx_f6_cryogenesis_93: 1262504507
+      fx_f6_cryogenesis_94: 1496577792
+      fx_f6_cryogenesis_95: 875182708
+      fx_f6_cryogenesis_96: -1950958182
+      fx_f6_cryogenesis_97: -536427070
+      fx_f6_cryogenesis_98: -1335062920
+      fx_f6_cryogenesis_99: 1710552465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

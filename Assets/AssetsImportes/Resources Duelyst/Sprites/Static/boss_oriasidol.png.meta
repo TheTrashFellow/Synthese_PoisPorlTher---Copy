@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: bef4517ed94bdcf47bb7db57cba90a03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_oriasidol_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 941
+        width: 34
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e7cff503fac694f81036e6886a8548
+      internalID: 1537395305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 941
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb456e720a400941aba2bc0ab85e38a
+      internalID: -1310805313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 941
+        width: 43
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666ca03f68211649aa976c5eaaa51c4
+      internalID: 771295869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 941
+        width: 34
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8843f4cc92d2be84da9f5b17e9eec106
+      internalID: 543563006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 942
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b555584611bb9448edee51fb54542e
+      internalID: 349702233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 941
+        width: 33
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d225676fa46274199f6b7a8fa66135
+      internalID: -1609676973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 840
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c740fd7748e3ec4da88a89677b43f7d
+      internalID: 908171340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 840
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e6fb638aa86847a98882291f44a23
+      internalID: -1569525747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 840
+        width: 37
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2020a2f86936baf41a5a1f83b90baaf1
+      internalID: -1756084350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 840
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bb59bfe4858449a5d4c4b20af5601
+      internalID: -1746218218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 843
+        width: 33
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad7ab71bb969a469a4fb978600c457
+      internalID: 1975123758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 840
+        width: 33
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fddb0ae28d68a488169266ff24edfb
+      internalID: 1422672780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 739
+        width: 34
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c4068f48969d4c888baf4edd9a3fb
+      internalID: 1471317078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 739
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599aa60f4d3e2e347a916836e3692c97
+      internalID: -1115429424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 739
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad5a68d4b56ae746bb15bbb1208b131
+      internalID: -454951016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 739
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6898957393a6b44b74ce58a1ae569c
+      internalID: -1069127566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 739
+        width: 33
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51385d2c2e6a7f64294d196015d06626
+      internalID: -1194816048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 739
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85ef33554e09548b8fd9b9e779363e
+      internalID: -619847157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 638
+        width: 36
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3670ed03e0a3484e9565d34fb07940e
+      internalID: 534017909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 638
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe303cc4e3ed9b6439d3a006ef8736e8
+      internalID: -192055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 638
+        width: 34
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5379dc6dabe92674ba3dc6d44691f64c
+      internalID: -1040287312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 638
+        width: 61
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e39d0ea61f9a4a943bd4472315152
+      internalID: 551071328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 638
+        width: 35
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a36a6988e28443961f2dcc953c14e
+      internalID: -18562271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 638
+        width: 32
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497eecb71576104fa5af6bafeddc65a
+      internalID: 2125708291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 537
+        width: 36
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78223b5b8e933394896826de25f2ca93
+      internalID: -1671204079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 537
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b92ad468179914f8d219d9e228072b
+      internalID: 361257126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 537
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b1f22120994b43bb329b81e1e325d
+      internalID: 1950065740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 528
+        width: 61
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb66d95d0eebbc4f920f67520c02639
+      internalID: 244261211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 537
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d896648203bfe4290ef6e43317242d
+      internalID: 1517744123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 36
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d3d7f37727df469ad7847806ce38f
+      internalID: -836019063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 436
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7795a15912b24b98a3de0394f4bac
+      internalID: -1501343237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 436
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655963c8d7edea0408526a37ca44d839
+      internalID: 166934327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 494
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e20b996b42bfb428338e2eab2a9073
+      internalID: -1648481267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 437
+        width: 39
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87afc948e9d02004db0b0fe8ac985e4b
+      internalID: 1867728797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 335
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98172a7db2d5924a9937c0e757e9f0a
+      internalID: -1481697481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 335
+        width: 48
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5387297c91484b9a0413e9189f93c
+      internalID: 1865615499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 335
+        width: 34
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075db9e893049a4dae1038b67cfc6b8
+      internalID: -1991979012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 358
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1c3dea4c577314ba604bf7da0de509
+      internalID: -1863384137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 336
+        width: 34
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241f59c1615d55489aad73a61e55818
+      internalID: 1452421819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 234
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dfcce6e38bfc441887d39e7e59be49
+      internalID: 1631328954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 234
+        width: 47
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73972d721bebb0847909e21e919f36f5
+      internalID: -879358600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 234
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3342377f17c54895c288d27179373
+      internalID: -303777094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 298
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6ef89bf7830446823808fc5c9742b
+      internalID: -859592162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 234
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d5113a1f97fa48ad7281f5eaa2c72
+      internalID: 110608746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 34
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf4ecb95c077e4d9c618100abb5b12
+      internalID: 104190889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 133
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05cfa08de1811b4d9d528bb278d8486
+      internalID: 1363883090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 133
+        width: 34
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3146f4b7e33443b629c0a963cc5cf
+      internalID: 1131733444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 198
+        width: 14
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06938a426a2f57d41b3f1754ecb744ad
+      internalID: 1087255165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 133
+        width: 33
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade8399bc22bcb46acf1deb5f1b68d0
+      internalID: 1314626845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 34
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad7449cf02c9e4aaeba770790e2d6d
+      internalID: -711494002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60a249f1b4ea948b5bad549e0530d4
+      internalID: 56898391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 34
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570176ebb570b24bb948d750fa86486
+      internalID: -1786261727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 92
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88cd28db7ed16f48a7a314d34dd9164
+      internalID: -1272169110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 32
+        width: 33
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9447c238e7d94489e1c728e468dbc5
+      internalID: -1863400821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_54
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 438
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733f6bbb5fb97274da907bcabd81c5d2
+      internalID: 725856724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 336
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55e7c9cd97d454697d09c8c2012cc4
+      internalID: -809784971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_56
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 335
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc184e2136c20d41b2c64b154eac9a0
+      internalID: -12369869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 329
+        width: 27
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db446989d37befc429c92c7e1cbc452c
+      internalID: 899744335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 233
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78baa7f03ff12c648aef338a26651322
+      internalID: 1074581698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 292
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb04b9427d3114fb33610437bfcd28
+      internalID: 1673958393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 271
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e857ecf7c5d5e24e9ea9eedbf37b0eb
+      internalID: 505559662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 133
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9c36667e890d4a9988d3f8f7feb8b
+      internalID: -2043665442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_62
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 187
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ec538b5649b943bfbe9fe6f26fc23
+      internalID: -1274356198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 157
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1af4d818a5768a4d8e678567583c6fe
+      internalID: -1601605148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_oriasidol_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 160
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c899f2bf11b64d961de9f9bf421b7
+      internalID: -219813427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_oriasidol_0: 1537395305
+      boss_oriasidol_1: -1310805313
+      boss_oriasidol_10: 1975123758
+      boss_oriasidol_11: 1422672780
+      boss_oriasidol_12: 1471317078
+      boss_oriasidol_13: -1115429424
+      boss_oriasidol_14: -454951016
+      boss_oriasidol_15: -1069127566
+      boss_oriasidol_16: -1194816048
+      boss_oriasidol_17: -619847157
+      boss_oriasidol_18: 534017909
+      boss_oriasidol_19: -192055012
+      boss_oriasidol_2: 771295869
+      boss_oriasidol_20: -1040287312
+      boss_oriasidol_21: 551071328
+      boss_oriasidol_22: -18562271
+      boss_oriasidol_23: 2125708291
+      boss_oriasidol_24: -1671204079
+      boss_oriasidol_25: 361257126
+      boss_oriasidol_26: 1950065740
+      boss_oriasidol_27: 244261211
+      boss_oriasidol_28: 1517744123
+      boss_oriasidol_29: -836019063
+      boss_oriasidol_3: 543563006
+      boss_oriasidol_30: -1501343237
+      boss_oriasidol_31: 166934327
+      boss_oriasidol_32: -1648481267
+      boss_oriasidol_33: 1867728797
+      boss_oriasidol_34: -1481697481
+      boss_oriasidol_35: 1865615499
+      boss_oriasidol_36: -1991979012
+      boss_oriasidol_37: -1863384137
+      boss_oriasidol_38: 1452421819
+      boss_oriasidol_39: 1631328954
+      boss_oriasidol_4: 349702233
+      boss_oriasidol_40: -879358600
+      boss_oriasidol_41: -303777094
+      boss_oriasidol_42: -859592162
+      boss_oriasidol_43: 110608746
+      boss_oriasidol_44: 104190889
+      boss_oriasidol_45: 1363883090
+      boss_oriasidol_46: 1131733444
+      boss_oriasidol_47: 1087255165
+      boss_oriasidol_48: 1314626845
+      boss_oriasidol_49: -711494002
+      boss_oriasidol_5: -1609676973
+      boss_oriasidol_50: 56898391
+      boss_oriasidol_51: -1786261727
+      boss_oriasidol_52: -1272169110
+      boss_oriasidol_53: -1863400821
+      boss_oriasidol_54: 725856724
+      boss_oriasidol_55: -809784971
+      boss_oriasidol_56: -12369869
+      boss_oriasidol_57: 899744335
+      boss_oriasidol_58: 1074581698
+      boss_oriasidol_59: 1673958393
+      boss_oriasidol_6: 908171340
+      boss_oriasidol_60: 505559662
+      boss_oriasidol_61: -2043665442
+      boss_oriasidol_62: -1274356198
+      boss_oriasidol_63: -1601605148
+      boss_oriasidol_64: -219813427
+      boss_oriasidol_7: -1569525747
+      boss_oriasidol_8: -1756084350
+      boss_oriasidol_9: -1746218218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: c3821d749b9f3d74582ccd0c422072bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neutral_monsteroculus_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 960
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937e8f8dac2752428c7e76bb6e1b78f
+      internalID: 1384175543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 960
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62df42b1a30022409117e9d8796345c
+      internalID: 954529366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 960
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c3a921edde0c44888e3447b952d65
+      internalID: 140965146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 960
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110b9086796f2148a3d1d7cdcbb4e56
+      internalID: 541596884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 879
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5edc643986c2a24a890a2387c2cf7de
+      internalID: -2053042749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 879
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf796d03d6a375f44ab729edae9d707a
+      internalID: -1015195684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 879
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd4c8ac3ea26d040aad1022f4920feb
+      internalID: -1796212824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 879
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657858c513796e428a1757c35f3f796
+      internalID: -1589797366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 798
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e38e3124a2c5247afbdc87d6a14e82
+      internalID: -766482455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 798
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f52c24fcc9bcd42a35aa350aa63b29
+      internalID: -399807446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 798
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b2ac562eadc446acc73520fbdd242
+      internalID: -1741622134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 798
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760921990379062428e56863380f8148
+      internalID: -1252040278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 717
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e98f21a8bfbd8f4080aa205f3f0bbdd
+      internalID: -467243614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 717
+        width: 38
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc36da537801d40998e949ec4101a8
+      internalID: -1480467733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 717
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e79a96419730b44ab7e3a58468e5f1
+      internalID: 1596607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 717
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381f5492f5334c4d90c8dc3221a01b8
+      internalID: -1793226724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 636
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e002bd39593e68e42b8396488165cdd9
+      internalID: -304979479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 635
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1a01060fc9af4c95a08aad18ad000
+      internalID: -1357633198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 636
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670d2dfc1ceaf448af5bfb3d95d6253
+      internalID: -1420220886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 636
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729295fb91756d44f869a6b63fbd4c73
+      internalID: 860706690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 555
+        width: 42
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109516b188d653b4998a0b48a6a21bdc
+      internalID: 1629774866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 555
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f3a65ede854d4ca93eb7cb23ac311
+      internalID: -1746416063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 555
+        width: 47
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196feae3f33b76646acebe168b98c2cb
+      internalID: 161672596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 555
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b76f0dbeb826745bd4bf89bb4000a5
+      internalID: -331539376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 474
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0683ee1693eb6409ef4279330f1282
+      internalID: 2032303623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 474
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd85f884f49034083ffcb2cb786dcd
+      internalID: -1079793982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 474
+        width: 52
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bfa5b7ae4a3b9488222ceb03dff022
+      internalID: 1369641000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 474
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4edc4f0692d149b69106a97cefc50
+      internalID: 1803639923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 393
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707ddf7172739a478886e6550a2bb41
+      internalID: 965875408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 393
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776c36e8f68bb249b6982ef6819cd1a
+      internalID: 585308092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 393
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09076bc91acb64cafdedc7c7b9603c
+      internalID: 59217813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 393
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a7e0404b3c331429ee8a82b5a5de70
+      internalID: -744037837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 312
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e54f6e706f048408f16b3b27b5b64d
+      internalID: -1961728943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8056f305a97d65429f9634f1cfbe958
+      internalID: 2084537165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 312
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433cd22ff4057ec41a21a9429ef188df
+      internalID: -85266529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 312
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67d5a8fc16b244f998d771702632bd
+      internalID: 1132124545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 231
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f895145f7ba34e91393b499f66bf6
+      internalID: 1196483096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98387de377e593b4fb08da125eab2d67
+      internalID: 602777860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 231
+        width: 40
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb25ae1bcaf1cc4598f81a23f9f68f6
+      internalID: 340971651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 231
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e58d674caaf4a4a930045512f6ad4f
+      internalID: -1108662776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81575eb20c3121544b1ecce85b261343
+      internalID: 474318473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 150
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca80b739c8c1244a00d0c6b842f992
+      internalID: 2122475176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 150
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53b8a7a2e6d5244b0a92fcd2be258c
+      internalID: 146515227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 150
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f797d978b1f4a4ebc19b660ebe49f3
+      internalID: 1525558912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 69
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbcc26d783b0c94798701405796d31f
+      internalID: -796885563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2653eee40c880b478bc91abc0e596b6
+      internalID: 1371621274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 69
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd0d890f3e40249b771ec60d7ee88e
+      internalID: 1030649964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_monsteroculus_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 69
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11eeba3624af4e468b759a0a2a3b6eb
+      internalID: 727421022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      neutral_monsteroculus_0: 1384175543
+      neutral_monsteroculus_1: 954529366
+      neutral_monsteroculus_10: -1741622134
+      neutral_monsteroculus_11: -1252040278
+      neutral_monsteroculus_12: -467243614
+      neutral_monsteroculus_13: -1480467733
+      neutral_monsteroculus_14: 1596607500
+      neutral_monsteroculus_15: -1793226724
+      neutral_monsteroculus_16: -304979479
+      neutral_monsteroculus_17: -1357633198
+      neutral_monsteroculus_18: -1420220886
+      neutral_monsteroculus_19: 860706690
+      neutral_monsteroculus_2: 140965146
+      neutral_monsteroculus_20: 1629774866
+      neutral_monsteroculus_21: -1746416063
+      neutral_monsteroculus_22: 161672596
+      neutral_monsteroculus_23: -331539376
+      neutral_monsteroculus_24: 2032303623
+      neutral_monsteroculus_25: -1079793982
+      neutral_monsteroculus_26: 1369641000
+      neutral_monsteroculus_27: 1803639923
+      neutral_monsteroculus_28: 965875408
+      neutral_monsteroculus_29: 585308092
+      neutral_monsteroculus_3: 541596884
+      neutral_monsteroculus_30: 59217813
+      neutral_monsteroculus_31: -744037837
+      neutral_monsteroculus_32: -1961728943
+      neutral_monsteroculus_33: 2084537165
+      neutral_monsteroculus_34: -85266529
+      neutral_monsteroculus_35: 1132124545
+      neutral_monsteroculus_36: 1196483096
+      neutral_monsteroculus_37: 602777860
+      neutral_monsteroculus_38: 340971651
+      neutral_monsteroculus_39: -1108662776
+      neutral_monsteroculus_4: -2053042749
+      neutral_monsteroculus_40: 474318473
+      neutral_monsteroculus_41: 2122475176
+      neutral_monsteroculus_42: 146515227
+      neutral_monsteroculus_43: 1525558912
+      neutral_monsteroculus_44: -796885563
+      neutral_monsteroculus_45: 1371621274
+      neutral_monsteroculus_46: 1030649964
+      neutral_monsteroculus_47: 727421022
+      neutral_monsteroculus_5: -1015195684
+      neutral_monsteroculus_6: -1796212824
+      neutral_monsteroculus_7: -1589797366
+      neutral_monsteroculus_8: -766482455
+      neutral_monsteroculus_9: -399807446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

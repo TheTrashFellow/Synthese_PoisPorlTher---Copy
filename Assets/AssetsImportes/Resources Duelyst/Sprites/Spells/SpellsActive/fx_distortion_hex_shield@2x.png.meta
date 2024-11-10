@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 0428af17e14b88545b45b7d1727a8d97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1679
+        width: 427
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ef664db2a78347956e1cd04a78169
+      internalID: 1268796197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1951
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79998c60773f4af4da60dde16731476c
+      internalID: 969514747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1679
+        width: 426
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca87903da3a1048b4d31dcbf1165ae
+      internalID: 1792279800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1310
+        width: 424
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1cf1d4d6174442a8fbf538fa03144
+      internalID: 1749437505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1310
+        width: 424
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d554c37d909ea498328e42b5cd53d1
+      internalID: -1285787036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 942
+        width: 424
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d77c9cd96185f49b48d92a86b8cacb
+      internalID: -613765997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_76
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 943
+        width: 423
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9188eada752a12241b0aa1ea196d4206
+      internalID: -879579378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 555
+        width: 350
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbf291caa938645adc4c93f44f37e3
+      internalID: 2059736839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 172
+        width: 318
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7251a5a4185eb44fa7cb75a4da60c47
+      internalID: -929265318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_distortion_hex_shield@2x_99
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 277
+        width: 232
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15afc886ae31e24da58de28d968142e
+      internalID: -27781135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fx_distortion_hex_shield@2x_0: 1464746744
+      fx_distortion_hex_shield@2x_1: -846790940
+      fx_distortion_hex_shield@2x_10: -495311931
+      fx_distortion_hex_shield@2x_100: 1609428039
+      fx_distortion_hex_shield@2x_101: 1684078699
+      fx_distortion_hex_shield@2x_102: -418138481
+      fx_distortion_hex_shield@2x_103: -2034497272
+      fx_distortion_hex_shield@2x_104: -1072804594
+      fx_distortion_hex_shield@2x_105: -879609641
+      fx_distortion_hex_shield@2x_106: 575560016
+      fx_distortion_hex_shield@2x_107: 542091675
+      fx_distortion_hex_shield@2x_108: 812337518
+      fx_distortion_hex_shield@2x_109: -86609166
+      fx_distortion_hex_shield@2x_11: -683531431
+      fx_distortion_hex_shield@2x_110: 1817955975
+      fx_distortion_hex_shield@2x_111: -249695126
+      fx_distortion_hex_shield@2x_112: -2115804816
+      fx_distortion_hex_shield@2x_113: 1925038477
+      fx_distortion_hex_shield@2x_114: -1664740504
+      fx_distortion_hex_shield@2x_115: -569122121
+      fx_distortion_hex_shield@2x_116: -1657421795
+      fx_distortion_hex_shield@2x_117: 1483814029
+      fx_distortion_hex_shield@2x_118: 1112412394
+      fx_distortion_hex_shield@2x_12: -1809352409
+      fx_distortion_hex_shield@2x_13: 469960133
+      fx_distortion_hex_shield@2x_14: 1237684743
+      fx_distortion_hex_shield@2x_15: -1452610860
+      fx_distortion_hex_shield@2x_16: -926967366
+      fx_distortion_hex_shield@2x_17: -589734370
+      fx_distortion_hex_shield@2x_18: -463326019
+      fx_distortion_hex_shield@2x_19: 1318417649
+      fx_distortion_hex_shield@2x_2: -848563020
+      fx_distortion_hex_shield@2x_20: 1264735889
+      fx_distortion_hex_shield@2x_21: -1543361742
+      fx_distortion_hex_shield@2x_22: 1645904085
+      fx_distortion_hex_shield@2x_23: 360751532
+      fx_distortion_hex_shield@2x_24: -2056131337
+      fx_distortion_hex_shield@2x_25: 1852893913
+      fx_distortion_hex_shield@2x_26: 104828473
+      fx_distortion_hex_shield@2x_27: 608393086
+      fx_distortion_hex_shield@2x_28: 77546550
+      fx_distortion_hex_shield@2x_29: -1111822644
+      fx_distortion_hex_shield@2x_3: 1195075537
+      fx_distortion_hex_shield@2x_30: 39861124
+      fx_distortion_hex_shield@2x_31: -211235011
+      fx_distortion_hex_shield@2x_32: 608548306
+      fx_distortion_hex_shield@2x_33: 1529605717
+      fx_distortion_hex_shield@2x_34: 1578699804
+      fx_distortion_hex_shield@2x_35: -1300933821
+      fx_distortion_hex_shield@2x_36: -1150095907
+      fx_distortion_hex_shield@2x_37: -16536594
+      fx_distortion_hex_shield@2x_38: 1899697709
+      fx_distortion_hex_shield@2x_39: 1312149019
+      fx_distortion_hex_shield@2x_4: 1830219552
+      fx_distortion_hex_shield@2x_40: 1367180669
+      fx_distortion_hex_shield@2x_41: -252794439
+      fx_distortion_hex_shield@2x_42: -1687122319
+      fx_distortion_hex_shield@2x_43: -1372042957
+      fx_distortion_hex_shield@2x_44: -1985880912
+      fx_distortion_hex_shield@2x_45: -644654649
+      fx_distortion_hex_shield@2x_46: -559335024
+      fx_distortion_hex_shield@2x_47: -265575605
+      fx_distortion_hex_shield@2x_48: -188285831
+      fx_distortion_hex_shield@2x_49: 895802239
+      fx_distortion_hex_shield@2x_5: 1268796197
+      fx_distortion_hex_shield@2x_50: 496050885
+      fx_distortion_hex_shield@2x_51: -611218106
+      fx_distortion_hex_shield@2x_52: 1598024759
+      fx_distortion_hex_shield@2x_53: -106235789
+      fx_distortion_hex_shield@2x_54: -542905089
+      fx_distortion_hex_shield@2x_55: -506459201
+      fx_distortion_hex_shield@2x_56: 1792279800
+      fx_distortion_hex_shield@2x_57: -1940189924
+      fx_distortion_hex_shield@2x_58: 17571831
+      fx_distortion_hex_shield@2x_59: -841865710
+      fx_distortion_hex_shield@2x_6: 969514747
+      fx_distortion_hex_shield@2x_60: 264982249
+      fx_distortion_hex_shield@2x_61: 159474539
+      fx_distortion_hex_shield@2x_62: -535287171
+      fx_distortion_hex_shield@2x_63: -191106514
+      fx_distortion_hex_shield@2x_64: 1749437505
+      fx_distortion_hex_shield@2x_65: -527286870
+      fx_distortion_hex_shield@2x_66: -1285787036
+      fx_distortion_hex_shield@2x_67: -439838161
+      fx_distortion_hex_shield@2x_68: 1953035263
+      fx_distortion_hex_shield@2x_69: 2010926827
+      fx_distortion_hex_shield@2x_7: 59285395
+      fx_distortion_hex_shield@2x_70: 1961539431
+      fx_distortion_hex_shield@2x_71: -708679577
+      fx_distortion_hex_shield@2x_72: -108745073
+      fx_distortion_hex_shield@2x_73: -1249378421
+      fx_distortion_hex_shield@2x_74: -613765997
+      fx_distortion_hex_shield@2x_75: 445641538
+      fx_distortion_hex_shield@2x_76: -879579378
+      fx_distortion_hex_shield@2x_77: -1994811417
+      fx_distortion_hex_shield@2x_78: 2045962093
+      fx_distortion_hex_shield@2x_79: 498378848
+      fx_distortion_hex_shield@2x_8: 1078510056
+      fx_distortion_hex_shield@2x_80: 226347964
+      fx_distortion_hex_shield@2x_81: -1681317075
+      fx_distortion_hex_shield@2x_82: -239880722
+      fx_distortion_hex_shield@2x_83: -816759180
+      fx_distortion_hex_shield@2x_84: 2059736839
+      fx_distortion_hex_shield@2x_85: 1357565968
+      fx_distortion_hex_shield@2x_86: 1146395196
+      fx_distortion_hex_shield@2x_87: -131398755
+      fx_distortion_hex_shield@2x_88: 1158566281
+      fx_distortion_hex_shield@2x_89: -1549332794
+      fx_distortion_hex_shield@2x_9: -1493943471
+      fx_distortion_hex_shield@2x_90: -501051245
+      fx_distortion_hex_shield@2x_91: -929265318
+      fx_distortion_hex_shield@2x_92: 716799717
+      fx_distortion_hex_shield@2x_93: 364508293
+      fx_distortion_hex_shield@2x_94: 1770066481
+      fx_distortion_hex_shield@2x_95: -863475086
+      fx_distortion_hex_shield@2x_96: 157506344
+      fx_distortion_hex_shield@2x_97: -904437313
+      fx_distortion_hex_shield@2x_98: 1820015523
+      fx_distortion_hex_shield@2x_99: -27781135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

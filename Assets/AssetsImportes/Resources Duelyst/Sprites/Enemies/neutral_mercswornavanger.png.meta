@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: 5c1bfd21fafd79c44833381a2bc9ffd2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 962
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d7b0d341a66749bf4df3668966317
+      internalID: -1815163262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 960
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3278811b615be04ebbb33b89f0eb143
+      internalID: 928388754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 960
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f0ea8e81bbd54c94071a799872e1c
+      internalID: 995525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 960
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724439fb3316d9f4fb0ece1aa7f9c801
+      internalID: -546832175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 960
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 0.64, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a54be1af4958284caa2eb4c87508d7e
+      internalID: -430113648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 879
+        width: 62
+        height: 53
+      alignment: 9
+      pivot: {x: 0.64, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde32fe63d662ca48a644d6e8c01799d
+      internalID: 1690974508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 926
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8157ec366f375489933cd290e40e7a
+      internalID: -972868065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 880
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e838ee262d074bba89f5d576610d4
+      internalID: 290092493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 879
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff97520a982ec4d853e6a8d78f4cd6
+      internalID: 1460619901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 879
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd394394e2189489122e128f17b125
+      internalID: 215363108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 879
+        width: 55
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad2ef65f6be1c489eb4cc578507020
+      internalID: 1071147094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 798
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7055e32eb6d2f0844913cdc208c8e6a1
+      internalID: -1846132076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 798
+        width: 55
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0a1d731eb9754e8389873b2fdd39e
+      internalID: -307272400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 797
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58b0c8d639bd54bb684e150afa79c2
+      internalID: -99835169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 798
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd73e028bb22147a26f103cacaaef9
+      internalID: 2112377034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 798
+        width: 66
+        height: 53
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684045b0c81218444b7a9e042e0b437c
+      internalID: -252936972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 719
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758c9af7d06c384e90332747b8fa1ef
+      internalID: -1953615993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 717
+        width: 55
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0bebb85cd107428d598b55a431e46
+      internalID: -752866170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 717
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa106f503d00c40b33c1e58ea5dffb
+      internalID: 1639660864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 717
+        width: 64
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11c34df8d41d34980fc55e27ec49c1
+      internalID: 1790828158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 717
+        width: 74
+        height: 56
+      alignment: 9
+      pivot: {x: 0.59, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338b9689adf0e540845f46a34b28956
+      internalID: 1138953883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 639
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc520b183437e144821dec78047c913
+      internalID: -1375714111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 636
+        width: 55
+        height: 38
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920174ded68531d4889ce136bac4989d
+      internalID: 1350377083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 601
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269000da1a75cbd448ac55ad9ecb1a1a
+      internalID: -1462426954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 636
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc98c462ae0c5a4093be6a0aab609c8
+      internalID: -1892187866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 634
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9db8cc1fab334484a582f56d74b69
+      internalID: -255571544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 555
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b77b9e9a3f57834e99224960fbdc028
+      internalID: 1985287863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 555
+        width: 55
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88221e6f99cc743bca518e379e57cc
+      internalID: 1231705825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 555
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835acb037516e6a47b95b9f134538bb8
+      internalID: -380659545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 555
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1f379ac264b74ab44a94178deed20
+      internalID: -1566644485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 474
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bedd7382de634a82665cefa249108
+      internalID: 1293948855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 474
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b052ffcccdb04b47a80300bcabd8135
+      internalID: 69221344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 474
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8157ac47d69f449d87ccd2efb662f
+      internalID: 74221697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 474
+        width: 55
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635af2ef2a0c3741856b3689be678e8
+      internalID: 855559342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 393
+        width: 63
+        height: 56
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e058d6db05e8c4899b3dca128e6b26
+      internalID: -1388404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 393
+        width: 55
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06f91c8a272e54e85d9e7453395bcb
+      internalID: -1462275932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 393
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f352378e132cd74b8627e572849b406
+      internalID: 1404814756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 393
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf90c443b95754ba20c96761473923
+      internalID: -1101940592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 312
+        width: 50
+        height: 53
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c23d91530fd74194435aea4adac2f
+      internalID: -2039933049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74467e3855364d48a15deb71a967fdd
+      internalID: 295645690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 312
+        width: 55
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9320369437448349a76fef441926e81
+      internalID: 1383718810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 312
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6bb30bd4ca9af49a22d7ffff3e7fd2
+      internalID: -384739351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 243
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4e47d1131e714d8c9b2d4120f80be
+      internalID: 36468411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 55
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb08976aa108de43afd78af4254146c
+      internalID: 1845326743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 231
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516882ad23f1c4241a579ed0d556a0e1
+      internalID: 574791539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 231
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab76656da4b8324c8b76f91e93770d7
+      internalID: -1959691354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 55
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d942ef3556c764bab4e3729a99d754
+      internalID: -789731126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 150
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338975050bf59754d97fe8c5a619751a
+      internalID: 2041566788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 150
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff15d3a176da649a5115a33036d4d7
+      internalID: -1250140220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ab10175476d8418c3edb7a2ce99f0
+      internalID: 1541927840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2ecaf793a98846a2d51f95719859c
+      internalID: 1608249573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 69
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d080457cae6f845a6601cf2798b4c1
+      internalID: 2029919589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 69
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9a9f9e71e4404b9a229ccff7b941f
+      internalID: 529362346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_mercswornavanger_69
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 69
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d060d9e01fc045919157ae90818f4
+      internalID: -1258941996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      neutral_mercswornavanger_0: -1815163262
+      neutral_mercswornavanger_1: 928388754
+      neutral_mercswornavanger_10: 1071147094
+      neutral_mercswornavanger_11: -619723981
+      neutral_mercswornavanger_12: -1814808042
+      neutral_mercswornavanger_13: -1846132076
+      neutral_mercswornavanger_14: -307272400
+      neutral_mercswornavanger_15: -99835169
+      neutral_mercswornavanger_16: 2112377034
+      neutral_mercswornavanger_17: 1516047816
+      neutral_mercswornavanger_18: -252936972
+      neutral_mercswornavanger_19: 1262445192
+      neutral_mercswornavanger_2: 995525640
+      neutral_mercswornavanger_20: -1953615993
+      neutral_mercswornavanger_21: -752866170
+      neutral_mercswornavanger_22: 1639660864
+      neutral_mercswornavanger_23: 1790828158
+      neutral_mercswornavanger_24: 1138953883
+      neutral_mercswornavanger_25: -1375714111
+      neutral_mercswornavanger_26: 1350377083
+      neutral_mercswornavanger_27: -1462426954
+      neutral_mercswornavanger_28: -1892187866
+      neutral_mercswornavanger_29: -255571544
+      neutral_mercswornavanger_3: -546832175
+      neutral_mercswornavanger_30: 1985287863
+      neutral_mercswornavanger_31: 1231705825
+      neutral_mercswornavanger_32: -380659545
+      neutral_mercswornavanger_33: -1566644485
+      neutral_mercswornavanger_34: 1293948855
+      neutral_mercswornavanger_35: 517741225
+      neutral_mercswornavanger_36: 69221344
+      neutral_mercswornavanger_37: 74221697
+      neutral_mercswornavanger_38: 855559342
+      neutral_mercswornavanger_39: -1805536739
+      neutral_mercswornavanger_4: -430113648
+      neutral_mercswornavanger_40: 942930746
+      neutral_mercswornavanger_41: -1388404564
+      neutral_mercswornavanger_42: -962210760
+      neutral_mercswornavanger_43: -1144508665
+      neutral_mercswornavanger_44: -1462275932
+      neutral_mercswornavanger_45: 1404814756
+      neutral_mercswornavanger_46: -268682497
+      neutral_mercswornavanger_47: -1101940592
+      neutral_mercswornavanger_48: -1706074319
+      neutral_mercswornavanger_49: 466689783
+      neutral_mercswornavanger_5: 1690974508
+      neutral_mercswornavanger_50: 94007483
+      neutral_mercswornavanger_51: -2039933049
+      neutral_mercswornavanger_52: 512855817
+      neutral_mercswornavanger_53: 295645690
+      neutral_mercswornavanger_54: 1383718810
+      neutral_mercswornavanger_55: -384739351
+      neutral_mercswornavanger_56: -1710067191
+      neutral_mercswornavanger_57: 36468411
+      neutral_mercswornavanger_58: 1845326743
+      neutral_mercswornavanger_59: 574791539
+      neutral_mercswornavanger_6: -972868065
+      neutral_mercswornavanger_60: -1959691354
+      neutral_mercswornavanger_61: -789731126
+      neutral_mercswornavanger_62: 2041566788
+      neutral_mercswornavanger_63: -1250140220
+      neutral_mercswornavanger_64: -1775323567
+      neutral_mercswornavanger_65: 1541927840
+      neutral_mercswornavanger_66: 1608249573
+      neutral_mercswornavanger_67: 2029919589
+      neutral_mercswornavanger_68: 529362346
+      neutral_mercswornavanger_69: -1258941996
+      neutral_mercswornavanger_7: 290092493
+      neutral_mercswornavanger_8: 1460619901
+      neutral_mercswornavanger_9: 215363108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

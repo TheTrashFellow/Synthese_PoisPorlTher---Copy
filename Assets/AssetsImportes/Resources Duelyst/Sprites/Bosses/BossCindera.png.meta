@@ -1,0 +1,2531 @@
+fileFormatVersion: 2
+guid: 5f6226890f5337c4f8f91d68945e8042
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossCindera_0
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 908
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ffd1fd1c17582498b079f8686a27fd
+      internalID: 1899291378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 910
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34792bfb98befb349afe79593dd827e1
+      internalID: -527037344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_2
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 910
+        width: 38
+        height: 65
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168650ebc375f07429a36b478e6eb12e
+      internalID: 1262410155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 899
+        width: 123
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177e9ee462ae5a240a9192f8441cd5f8
+      internalID: 1173616055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_4
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 910
+        width: 95
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f077138f6c51642a4b05f291c01c59
+      internalID: 1629668735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_9
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 910
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6784d8cc375abb448427dc275f98f37
+      internalID: 476228800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_10
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 910
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2674af2c772bb348b33e92b609826b0
+      internalID: -937174103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 917
+        width: 38
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785eae0164a3fe44d9123bac7ebc4e60
+      internalID: -1908291597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 910
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09218c47ed0de24192662b39224bf2b
+      internalID: 1832724149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_13
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 911
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558f806b9b5e5f4bbbc192d9c63f081
+      internalID: -173511216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_14
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 913
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcbb6e08c586d4d8d58a43722b8051
+      internalID: -1384560113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_15
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 910
+        width: 73
+        height: 73
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce189bb332596f74194749e086570197
+      internalID: -1126810830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 925
+        width: 59
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512a84eefdf23c43a98ff4024af180a
+      internalID: 709319840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 927
+        width: 59
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187daf1bb2c14bf45b689ab5cc3482c5
+      internalID: -1815302189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 779
+        width: 31
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19856e3f21471d4dab1e4c1d40dc5fe
+      internalID: -1262441451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_29
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 779
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea198ee2b3031e9468b35cbc0b6bc9d5
+      internalID: 215629811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 779
+        width: 31
+        height: 65
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe522e0f286ffd4d8f9b251d8781826
+      internalID: -1969814269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_32
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 779
+        width: 37
+        height: 64
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56862267bcde24c8af318aaf3ecb50
+      internalID: -978279218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_33
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 779
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d68ea2733a894783e8892f2a64e93
+      internalID: -953681773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_36
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 779
+        width: 36
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74da207cf7811143bc5e37d53f95c76
+      internalID: 1567965016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 793
+        width: 58
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae396487d56714794bbf091a8825f9
+      internalID: 1073401635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 781
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccc190655153d4391fbe27e3159cc9
+      internalID: -1327060935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 786
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d434a22df7712542b1a240d423a5d70
+      internalID: -312414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_41
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 780
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460fe1f045a414e4eaba829545f079c3
+      internalID: -1032904894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_42
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 781
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ccf64db5946b488083059c17d6243
+      internalID: -2126023660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_43
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 768
+        width: 124
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb8eafcd27d1f4f9bb845bc19800d0
+      internalID: -284225590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 782
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19036c13376144aaccb14748df77d9
+      internalID: 745398190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_45
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 782
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013bf8ab5df627408ba7c9fe9951633
+      internalID: 1205298118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_54
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 648
+        width: 75
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e9ab2c97efd640b8ecc989aff1fe8
+      internalID: 1939782488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 648
+        width: 32
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11065ede2913d9345bd2595e874767c2
+      internalID: 1930086214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_65
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 648
+        width: 74
+        height: 71
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d6f897bcd65f4ab37549dbace0853
+      internalID: -578190570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 661
+        width: 58
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b121a2107c0d4e86dcdf346a8d3ef
+      internalID: 592280957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 650
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acee645df293a04881848e19d0130c7
+      internalID: 994351356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 654
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d94477eef77f148a44898317b16f23
+      internalID: 436022727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_74
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 648
+        width: 37
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e54550281a39df409e2832c04eb1883
+      internalID: 161968732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_76
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 649
+        width: 35
+        height: 61
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f65b6051ab78141b99c16551d735a9
+      internalID: 831730465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_77
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 647
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434eeb09c81e0284c815c51d05d513f6
+      internalID: 1566965732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_78
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 650
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd02b8b6e77a1c4baf9ed789ee36c99
+      internalID: -720302195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_81
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 637
+        width: 123
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63eb98945de9b4a89a5045422a33b3
+      internalID: 526321455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_85
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 652
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30564b08d765f664eb25a90bebc60b40
+      internalID: -479550206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_86
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 651
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d8161af5219b4e890fbb6a5c25587
+      internalID: 1591871737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_87
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 648
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ccf04091eb0c459864735714c22b5
+      internalID: 1686661920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_90
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 642
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291cf915b52dd5542b49f5645da9dbaa
+      internalID: -1522634666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_119
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 517
+        width: 74
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a653d8490369f04fb98eb9b1a699db0
+      internalID: 675780116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_125
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 517
+        width: 75
+        height: 72
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00a5b0f4f5e9a4fa2ebafd195a1521
+      internalID: 15893555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_127
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 517
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8825e35c7a64c147aadd8acd5b76ad6
+      internalID: 1318754777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_128
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 507
+        width: 121
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37134e8b4c8e95c458c4de11c8685a8f
+      internalID: 1277115462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_132
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 528
+        width: 58
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c741af0f871e034d802ee42a5d2d323
+      internalID: -1568547927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 520
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c7863464315c409ea38721a1a99e0
+      internalID: -1986856123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_134
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 522
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73caeb6d7b077cd449ba02927371c93e
+      internalID: -190441649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_135
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 517
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceaa6d542c25e54aa9a66bf5c2c58e4
+      internalID: 1977397529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_139
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 520
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51122893ac00b8b40a563e6f637b1a2c
+      internalID: 1060284421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_140
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 516
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4532441de5a78ea4f9facd34ac4ebb93
+      internalID: -1408571101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_141
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 519
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88fc773748a05a4cbe40c546dc15467
+      internalID: -1018181698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_147
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 521
+        width: 29
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305fb3a1795d249b7b05f934491164
+      internalID: 1876001962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_148
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 520
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75198f8bf23fe41935e6dbd31905a3
+      internalID: -1256123782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_151
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 516
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e514158ec4a57ae4cbeb32de80a6aef9
+      internalID: -1576197970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_159
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 508
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4133166da8a5d4f8ecbef5a77987c5
+      internalID: -870311292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_179
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 390
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbfa7165c28d434483783345f2ccb00
+      internalID: 420838126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_180
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 386
+        width: 41
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277db346f3e73c48a4670de36596bef
+      internalID: 1082931851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_181
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 386
+        width: 31
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51d43f1e6bb0341a461fb68e43ccba
+      internalID: 993210432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_182
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 391
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168a282387575049ac9d9a77c63e092
+      internalID: 1006238946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_183
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 377
+        width: 116
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903b601ec37e4846b69aed806bd7b5f
+      internalID: -1646728572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_186
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 389
+        width: 68
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5790741f29bc42a044b1c20434d5c
+      internalID: -394756124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_187
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 386
+        width: 74
+        height: 73
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9807a971933fa04d8ade9121f419273
+      internalID: 2007956942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_188
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 387
+        width: 65
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0995979594d9f843b46be848c317b3d
+      internalID: 1766623169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_189
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 399
+        width: 58
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9579ca7d47ca14585caa0bb1225bbf
+      internalID: 2049606761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_190
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 389
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48c9ea9a6fd914fb1ae30a60e2f8f7
+      internalID: 425207640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_194
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 385
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3295ac5dd48c48993e3141bce2d04
+      internalID: 1460010436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_195
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 388
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b66c0191a5e1e4289f72307e9f5793
+      internalID: 93927994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_196
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 389
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b2fbea0124044ea8c6f76329c9c01
+      internalID: 1861537684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_203
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 377
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689bbbd0f85bd4b43846af99bb355af8
+      internalID: -823862707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_206
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 261
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026db64e4e4fd9438d7efabde4061f3
+      internalID: -2015925343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_207
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 257
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a3177c6da2c144a394e9d2dab5981
+      internalID: -149170501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_209
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 255
+        width: 41
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f5a158546904439b05969ed1aa6dd
+      internalID: -1419302612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_211
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 260
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec42a699ede7c43853f5ad092103f5
+      internalID: 1932024224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_212
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 257
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da446955ffea1604bad0674246d8902a
+      internalID: 1102597493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_213
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 248
+        width: 113
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f8cd5fd4bb26449b27d3d239593cd
+      internalID: 2062295201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_214
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 258
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fde264477756b42abdf07f8cae8bec
+      internalID: 200820179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_215
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 258
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84433ea9d9acd4597446426a1a0087
+      internalID: 808148885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_216
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 255
+        width: 73
+        height: 72
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cce1ccf01a983489e282890bf98f9c
+      internalID: 365440304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_217
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 255
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36815966eebad1046927e5a5ca3fbcc4
+      internalID: 138421835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_221
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 255
+        width: 34
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf3eb67cbfbc5488758cff0204e97a
+      internalID: 491459081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_222
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 254
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db15571f882f284a99e032146620ca9
+      internalID: 1405671240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_223
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 269
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756fd93e51f61047844b515bd271f97
+      internalID: 88501635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_232
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 246
+        width: 38
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262f1e4e0d91d84b8119e556ca6b235
+      internalID: -542107238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_233
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 140
+        width: 59
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c55dad0e0ff2429b9fc927533159a
+      internalID: 1136765111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_234
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 131
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14acfccd1ad78419e050d70c8705f2
+      internalID: 988808868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_235
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 126
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed9459df768e24dad3d4f920d95c77
+      internalID: -73775596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_237
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 123
+        width: 36
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa3dfbcf4863c449951c35f46b2107
+      internalID: 295324559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_239
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 125
+        width: 37
+        height: 66
+      alignment: 9
+      pivot: {x: 0.58, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3087056dd622643aeebe49483b22a0
+      internalID: 2029527161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_241
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 125
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc38c8f721f8147978f2c1d427e498
+      internalID: -2077202377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_242
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 124
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac01e0545a05b40a47c6d1e7ee4c9d
+      internalID: 1498496359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_243
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 363
+        width: 35
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d605f96d292fd4ea3d89f31f438aea
+      internalID: -497196059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_244
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 119
+        width: 107
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d7540704a90604e82852d222bbfb20
+      internalID: 368620699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_245
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 127
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966fcd2d32c7f147abac1bbe4e482cf
+      internalID: -2013122500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_246
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 126
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ae3caefc83e24da2d7760192a1f77
+      internalID: 1127783743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_252
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 124
+        width: 96
+        height: 75
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de734dec2b3193439fe685a5290e7a6
+      internalID: -1367692057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_253
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 124
+        width: 39
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c5424e55ca21418d6e7d847e3f041
+      internalID: 1360054235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCindera_264
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 116
+        width: 31
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1425dd1a1951d4ebf48153df5498fc
+      internalID: -86148281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossCindera_0: 1899291378
+      BossCindera_1: -527037344
+      BossCindera_10: -937174103
+      BossCindera_100: 692941777
+      BossCindera_101: 1248640444
+      BossCindera_102: -1251642821
+      BossCindera_103: 381165577
+      BossCindera_104: -120670400
+      BossCindera_105: 1045444476
+      BossCindera_106: 1457368071
+      BossCindera_107: 1471349111
+      BossCindera_108: 107377792
+      BossCindera_109: -1299571592
+      BossCindera_11: -1908291597
+      BossCindera_110: 1796828662
+      BossCindera_111: -243289779
+      BossCindera_112: 1190652834
+      BossCindera_113: 1964908112
+      BossCindera_114: 996171110
+      BossCindera_115: -1724599357
+      BossCindera_116: -1747280751
+      BossCindera_117: -1792124944
+      BossCindera_118: -826888891
+      BossCindera_119: 675780116
+      BossCindera_12: 1832724149
+      BossCindera_120: -938288047
+      BossCindera_121: -1648770177
+      BossCindera_122: 1869695243
+      BossCindera_123: 315678565
+      BossCindera_124: -876159228
+      BossCindera_125: 15893555
+      BossCindera_126: -1387590666
+      BossCindera_127: 1318754777
+      BossCindera_128: 1277115462
+      BossCindera_129: 155614008
+      BossCindera_13: -173511216
+      BossCindera_130: -1713006735
+      BossCindera_131: -529552077
+      BossCindera_132: -1568547927
+      BossCindera_133: -1986856123
+      BossCindera_134: -190441649
+      BossCindera_135: 1977397529
+      BossCindera_136: 860851697
+      BossCindera_137: -133311656
+      BossCindera_138: -368817639
+      BossCindera_139: 1060284421
+      BossCindera_14: -1384560113
+      BossCindera_140: -1408571101
+      BossCindera_141: -1018181698
+      BossCindera_142: -451551319
+      BossCindera_143: 1537441138
+      BossCindera_144: -1127886834
+      BossCindera_145: 1359129416
+      BossCindera_146: 1803987473
+      BossCindera_147: 1876001962
+      BossCindera_148: -1256123782
+      BossCindera_149: 515473643
+      BossCindera_15: -1126810830
+      BossCindera_150: 1755185577
+      BossCindera_151: -1576197970
+      BossCindera_152: 741730713
+      BossCindera_153: 674026136
+      BossCindera_154: -1708070646
+      BossCindera_155: 1175216375
+      BossCindera_156: 606217633
+      BossCindera_157: -268170873
+      BossCindera_158: -906307248
+      BossCindera_159: -870311292
+      BossCindera_16: -575858993
+      BossCindera_160: -861734985
+      BossCindera_161: -2013051694
+      BossCindera_162: 1982979066
+      BossCindera_163: 1066884154
+      BossCindera_164: -493880474
+      BossCindera_165: -1260251011
+      BossCindera_166: -951792075
+      BossCindera_167: 428711670
+      BossCindera_168: 487866341
+      BossCindera_169: 1507974835
+      BossCindera_17: 709319840
+      BossCindera_170: 2064667316
+      BossCindera_171: -110755719
+      BossCindera_172: -1562711231
+      BossCindera_173: -485896795
+      BossCindera_174: 1293960762
+      BossCindera_175: -1556009193
+      BossCindera_176: 2063492449
+      BossCindera_177: 319824270
+      BossCindera_178: -1511761621
+      BossCindera_179: 420838126
+      BossCindera_18: -1815302189
+      BossCindera_180: 1082931851
+      BossCindera_181: 993210432
+      BossCindera_182: 1006238946
+      BossCindera_183: -1646728572
+      BossCindera_184: -476563596
+      BossCindera_185: 1078032239
+      BossCindera_186: -394756124
+      BossCindera_187: 2007956942
+      BossCindera_188: 1766623169
+      BossCindera_189: 2049606761
+      BossCindera_19: -2079187305
+      BossCindera_190: 425207640
+      BossCindera_191: -492977279
+      BossCindera_192: -1066486926
+      BossCindera_193: 501035948
+      BossCindera_194: 1460010436
+      BossCindera_195: 93927994
+      BossCindera_196: 1861537684
+      BossCindera_197: -2073972771
+      BossCindera_198: -1542203325
+      BossCindera_199: -1916304501
+      BossCindera_2: 1262410155
+      BossCindera_20: -661501127
+      BossCindera_200: 584955120
+      BossCindera_201: 1413084365
+      BossCindera_202: -975176286
+      BossCindera_203: -823862707
+      BossCindera_204: -1653378368
+      BossCindera_205: -31584026
+      BossCindera_206: -2015925343
+      BossCindera_207: -149170501
+      BossCindera_208: 1572993003
+      BossCindera_209: -1419302612
+      BossCindera_21: -509953480
+      BossCindera_210: -1694770078
+      BossCindera_211: 1932024224
+      BossCindera_212: 1102597493
+      BossCindera_213: 2062295201
+      BossCindera_214: 200820179
+      BossCindera_215: 808148885
+      BossCindera_216: 365440304
+      BossCindera_217: 138421835
+      BossCindera_218: -1109513716
+      BossCindera_219: -1004587848
+      BossCindera_22: 1763722782
+      BossCindera_220: -132411309
+      BossCindera_221: 491459081
+      BossCindera_222: 1405671240
+      BossCindera_223: 88501635
+      BossCindera_224: 1850131781
+      BossCindera_225: -881323352
+      BossCindera_226: -281335605
+      BossCindera_227: -1905895136
+      BossCindera_228: 944891968
+      BossCindera_229: 1444315796
+      BossCindera_23: 929205289
+      BossCindera_230: 161764320
+      BossCindera_231: 1004648146
+      BossCindera_232: -542107238
+      BossCindera_233: 1136765111
+      BossCindera_234: 988808868
+      BossCindera_235: -73775596
+      BossCindera_236: -229678440
+      BossCindera_237: 295324559
+      BossCindera_238: -665988724
+      BossCindera_239: 2029527161
+      BossCindera_24: -125324530
+      BossCindera_240: -835120807
+      BossCindera_241: -2077202377
+      BossCindera_242: 1498496359
+      BossCindera_243: -497196059
+      BossCindera_244: 368620699
+      BossCindera_245: -2013122500
+      BossCindera_246: 1127783743
+      BossCindera_247: 1672620195
+      BossCindera_248: 1638761801
+      BossCindera_249: -1848735739
+      BossCindera_25: -1657679144
+      BossCindera_250: 618890665
+      BossCindera_251: -1155408056
+      BossCindera_252: -1367692057
+      BossCindera_253: 1360054235
+      BossCindera_254: -1861624934
+      BossCindera_255: 1908447974
+      BossCindera_256: 1927537257
+      BossCindera_257: 203744743
+      BossCindera_258: 1864365629
+      BossCindera_259: 2120854963
+      BossCindera_26: -1262441451
+      BossCindera_260: 796082038
+      BossCindera_261: 960110945
+      BossCindera_262: -1109783766
+      BossCindera_263: 1728971466
+      BossCindera_264: -86148281
+      BossCindera_27: -2111640730
+      BossCindera_28: 2019284931
+      BossCindera_29: 215629811
+      BossCindera_3: 1173616055
+      BossCindera_30: 1916558023
+      BossCindera_31: -1969814269
+      BossCindera_32: -978279218
+      BossCindera_33: -953681773
+      BossCindera_34: -769711954
+      BossCindera_35: -1896256442
+      BossCindera_36: 1567965016
+      BossCindera_37: 1073401635
+      BossCindera_38: -1327060935
+      BossCindera_39: -312414175
+      BossCindera_4: 1629668735
+      BossCindera_40: -830132
+      BossCindera_41: -1032904894
+      BossCindera_42: -2126023660
+      BossCindera_43: -284225590
+      BossCindera_44: 745398190
+      BossCindera_45: 1205298118
+      BossCindera_46: 1286805124
+      BossCindera_47: -481535439
+      BossCindera_48: 2071941552
+      BossCindera_49: -1182744079
+      BossCindera_5: -1647503800
+      BossCindera_50: 605235302
+      BossCindera_51: -877999968
+      BossCindera_52: 1825064941
+      BossCindera_53: -979365249
+      BossCindera_54: 1939782488
+      BossCindera_55: -1076382700
+      BossCindera_56: 1457727077
+      BossCindera_57: -210896457
+      BossCindera_58: 428016832
+      BossCindera_59: 1930086214
+      BossCindera_6: 595001300
+      BossCindera_60: -1088911344
+      BossCindera_61: -1865157589
+      BossCindera_62: -1067034900
+      BossCindera_63: 2029770916
+      BossCindera_64: 1070615782
+      BossCindera_65: -578190570
+      BossCindera_66: -2137261229
+      BossCindera_67: 546219206
+      BossCindera_68: 1976100874
+      BossCindera_69: 1028869527
+      BossCindera_7: 2035271419
+      BossCindera_70: 9181638
+      BossCindera_71: 592280957
+      BossCindera_72: 994351356
+      BossCindera_73: 436022727
+      BossCindera_74: 161968732
+      BossCindera_75: -20487518
+      BossCindera_76: 831730465
+      BossCindera_77: 1566965732
+      BossCindera_78: -720302195
+      BossCindera_79: -937040647
+      BossCindera_8: 248742120
+      BossCindera_80: -1139078110
+      BossCindera_81: 526321455
+      BossCindera_82: 1302237720
+      BossCindera_83: -1816350912
+      BossCindera_84: 485633948
+      BossCindera_85: -479550206
+      BossCindera_86: 1591871737
+      BossCindera_87: 1686661920
+      BossCindera_88: 979667921
+      BossCindera_89: -837102469
+      BossCindera_9: 476228800
+      BossCindera_90: -1522634666
+      BossCindera_91: 721082969
+      BossCindera_92: 664519270
+      BossCindera_93: 1927783319
+      BossCindera_94: -767682162
+      BossCindera_95: -1792085836
+      BossCindera_96: -734962741
+      BossCindera_97: 1640729185
+      BossCindera_98: -654491548
+      BossCindera_99: 853355600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
